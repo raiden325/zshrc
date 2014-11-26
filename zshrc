@@ -56,3 +56,4 @@ export MANPATH=/opt/local/man:$MANPATH
 #Completion
 autoload -U compinit
 compinit
+zstyle ':completion:*:default' menu select
