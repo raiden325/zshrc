@@ -53,3 +53,6 @@ setopt hist_ignore_dups
 setopt share_history
 export PATH=/opt/local/bin:/opt/local/sbin:$PATH
 export MANPATH=/opt/local/man:$MANPATH
+#Completion
+autoload -U compinit
+compinit
