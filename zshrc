@@ -1,5 +1,5 @@
 #alias vi='env LANG=ja_JP.UTF-8 /Applications/MacVim.app/Contents/MacOS/Vim -g "$@"'
-alias gvim='env_LANG=ja_JP.UTF-8 /Applications/MacVim.app/Contents/MacOS/Vim -g "$@"'
+alias gvim='env_LANG=ja_JP.UTF-8 /Applications/MacVim.app/Contents/MacOS/mvim -g "$@"'
 alias ls='ls -GF'
 alias vim='/usr/local/bin/vim'
 alias vi='/usr/local/bin/vim'
